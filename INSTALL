@@ -1,0 +1,9 @@
+Building OilCoin
+
+See doc/readme-qt.rst for instructions on building OilCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OilCoin.
+
+See doc/build-*.txt for instructions on building OilCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of OilCoin.
